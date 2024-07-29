@@ -1,6 +1,4 @@
-Here's a README file for the script you provided:
 
----
 
 # Arabic Text Summarization with Translation
 
